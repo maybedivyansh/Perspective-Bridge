@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Perspective Bridge",
+    "version": "1.0.0",
+    "description": "Break out of your echo chamber with steel-man counter-arguments.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Perspective Bridge"
+    },
+    "icons": {
+        "16": "vite.svg",
+        "48": "vite.svg",
+        "128": "vite.svg"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}

@@ -1,0 +1,17 @@
+# Node / npm
+node_modules/
+npm-debug.log
+
+# Build artefacts
+dist/
+build/
+public/build/
+
+# Environment files
+.env
+.env.local
+
+# OS / editor artefacts
+.DS_Store
+.idea/
+.vscode/

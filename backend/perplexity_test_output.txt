@@ -1,0 +1,143 @@
+{
+  "id": "8dfce411-4392-40ee-8371-79defdcfc820",
+  "model": "sonar-pro",
+  "created": 1763829466,
+  "usage": {
+    "prompt_tokens": 13,
+    "completion_tokens": 100,
+    "total_tokens": 113,
+    "search_context_size": "low",
+    "cost": {
+      "input_tokens_cost": 0,
+      "output_tokens_cost": 0.002,
+      "request_cost": 0.006,
+      "total_cost": 0.008
+    }
+  },
+  "citations": [
+    "https://www.ibm.com/docs/en/api-connect/saas?topic=agent-prompts-library",
+    "https://reqbin.com",
+    "https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-scripts/",
+    "https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/",
+    "https://katalon.com/resources-center/blog/api-examples",
+    "https://gist.github.com/ajaxray/6daa1877d4eb29990133565032b6846a",
+    "https://platform.openai.com/docs/examples",
+    "https://www.baeldung.com/curl-rest",
+    "https://www.browserstack.com/guide/what-is-api-testing",
+    "https://blog.dreamfactory.com/8-api-documentation-examples",
+    "https://learn.microsoft.com/en-au/answers/questions/2150604/getting-data-through-api-for-using-it-in-prompt-on",
+    "https://developer.sailpoint.com/discuss/t/rest-api-reference-im-looking-for-old-school-knowledge/114673"
+  ],
+  "search_results": [
+    {
+      "title": "Prompts library - IBM",
+      "url": "https://www.ibm.com/docs/en/api-connect/saas?topic=agent-prompts-library",
+      "date": "2023-01-01",
+      "last_updated": "2025-07-03",
+      "snippet": "You can use to run test cases for a published API in Visual Studio Code, including initiating the test, viewing results, and optionally deleting a test case.",
+      "source": "web"
+    },
+    {
+      "title": "Online API Testing Tool | Test Your API Online",
+      "url": "https://reqbin.com",
+      "date": "2023-08-07",
+      "last_updated": "2025-06-16",
+      "snippet": "ReqBin is the world's most popular online API testing tool for REST, SOAP, and HTTP APIs. Test your APIs right from your browser. No coding.",
+      "source": "web"
+    },
+    {
+      "title": "Write scripts to test API response data in Postman",
+      "url": "https://learning.postman.com/docs/tests-and-scripts/write-scripts/test-scripts/",
+      "date": "2024-08-24",
+      "last_updated": "2025-11-22",
+      "snippet": "You can write tests for your Postman API requests in JavaScript in the Post-response tab. You can also use test code to aid the debugging process.",
+      "source": "web"
+    },
+    {
+      "title": "How to test a REST api from command line with curl - Codepedia.org",
+      "url": "https://www.codepedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/",
+      "date": "2014-12-03",
+      "last_updated": "2025-11-22",
+      "snippet": "If you want to quickly test your REST api from the command line, you can use curl. In this post I will present how to execute GET, POST, PUT, HEAD, DELETE HTTP ...",
+      "source": "web"
+    },
+    {
+      "title": "10 Popular API Examples: A Full List - Katalon Studio",
+      "url": "https://katalon.com/resources-center/blog/api-examples",
+      "date": "2025-08-21",
+      "last_updated": "2025-11-22",
+      "snippet": "Easy-to-understand definition of API with 10 API examples: Twitter - ChatGPT - Google Map - Discord - GitHub - PayPal - eCommerce - YouTube ...",
+      "source": "web"
+    },
+    {
+      "title": "Testing a REST API with curl - GitHub Gist",
+      "url": "https://gist.github.com/ajaxray/6daa1877d4eb29990133565032b6846a",
+      "date": "2023-09-06",
+      "last_updated": "2025-10-12",
+      "snippet": "This gist lists only the basic commands to test REST APIs with curl. If you need something more advanced, this book has everything you may need.",
+      "source": "web"
+    },
+    {
+      "title": "Prompt examples - OpenAI API",
+      "url": "https://platform.openai.com/docs/examples",
+      "last_updated": "2025-08-29",
+      "snippet": "Explore resources, tutorials, API docs, and dynamic examples to get the most out of OpenAI's developer platform.",
+      "source": "web"
+    },
+    {
+      "title": "Test a REST API with curl | Baeldung",
+      "url": "https://www.baeldung.com/curl-rest",
+      "date": "2025-03-26",
+      "last_updated": "2025-11-20",
+      "snippet": "This tutorial gives a brief overview of testing a REST API using curl. curl is a command-line tool for transferring data, and it supports about 22 protocols, ...",
+      "source": "web"
+    },
+    {
+      "title": "What is API Testing? (with Examples) | BrowserStack",
+      "url": "https://www.browserstack.com/guide/what-is-api-testing",
+      "date": "2025-05-09",
+      "last_updated": "2025-11-22",
+      "snippet": "Find out what is API testing with examples, along with its significance in functional and secure communication between software systems.",
+      "source": "web"
+    },
+    {
+      "title": "The 8 Best API Documentation Examples for 2025 | Dreamfactory",
+      "url": "https://blog.dreamfactory.com/8-api-documentation-examples",
+      "date": "2025-04-08",
+      "last_updated": "2025-11-22",
+      "snippet": "Discover the top API documentation examples for 2025 and learn essential tips for creating user-friendly and comprehensive API docs.",
+      "source": "web"
+    },
+    {
+      "title": "Getting data through api for using it in prompt on my application",
+      "url": "https://learn.microsoft.com/en-au/answers/questions/2150604/getting-data-through-api-for-using-it-in-prompt-on",
+      "date": "2025-01-23",
+      "last_updated": "2025-06-30",
+      "snippet": "This article provides example prompts that can help you design and develop your application in the cloud. GitHub Copilot for Azure prompt ...",
+      "source": "web"
+    },
+    {
+      "title": "REST API reference (I'm looking for old-school knowledge)",
+      "url": "https://developer.sailpoint.com/discuss/t/rest-api-reference-im-looking-for-old-school-knowledge/114673",
+      "date": "2025-04-24",
+      "last_updated": "2025-04-27",
+      "snippet": "I am trying to run IIQ instance health checks. for example, testing application connections. I might want to do other automated tests by hitting ...",
+      "source": "web"
+    }
+  ],
+  "object": "chat.completion",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "API connectivity can be tested by sending a request to an API endpoint and verifying the response status, content, and timing using tools such as **curl**, **Postman**, or online platforms like **ReqBin**[2][3][4][6][8].\n\nTo test API connectivity:\n\n- With **curl** (command line), run:\n  ```bash\n  curl -v https://api.example.com/ping\n  ```\n  This command sends a GET request and displays both the response and"
+      },
+      "delta": {
+        "role": "assistant",
+        "content": ""
+      },
+      "finish_reason": "length"
+    }
+  ]
+}
